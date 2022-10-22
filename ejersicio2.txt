@@ -1,0 +1,24 @@
+Que es un objeto?
+Es algo de el mundo real traido al codigo que tiene estados y funciones.
+
+Que es una clase?
+Es la herramienta que usamos para crear objetos.
+
+A que se llama metodo constructor?
+A lo que nos permite crear varias versiones del mismo objeto.
+
+Que son los modificadores de acceso?
+Son lo que controla a que cosa se puede acceder y a que no, como la palabra public y private.
+
+Que diferencia hay entre uno privado y uno protegido?
+Que el privado solo puede acceder la misma clase.
+y el protegido se puede acceder desde una sub clase.
+
+Cuando se usa el this?
+Para hacer referencia a los atributos cuando se crea una clase.
+
+Cuando se usa el super?
+Se usa para traer los atributos de la clase padre.
+
+A que se llama sub-clase, o clase hija?
+Se llama sub-clase a una clase definida dentro de otra y esa claase le comparte sus atributos.
